@@ -1,0 +1,25 @@
+.hero
+{
+    height: 100vh;
+    background: linear-gradient(transparent, black), url(https://nepalwanders.com/wp-content/uploads/2023/08/4-1.jpg);
+background-size: cover;
+}
+.tour img
+{
+height: 180px;
+object-fit: cover;
+}
+
+.quote
+{
+    height: 80vh;
+    background: linear-gradient(transparent, black), url(https://nepalwanders.com/wp-content/uploads/2023/08/4-1.jpg);
+background-size: cover;
+}
+
+.circle
+{
+    width: 80px; height: 80px;
+    background: white; border-radius: 50%;
+    margin: auto;
+}
